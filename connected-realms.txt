@@ -1,0 +1,123 @@
+510: Vol'jin, Chants éternels
+516: Forscherliga, Die Nachtwache
+1118: Die ewige Wacht, Die Silberne Hand
+1092: Drak'thul, Burning Blade
+1401: Garrosh, Nozdormu, Shattrath
+578: Arthas, Kel'Thuzad, Wrathbringer, Vek'lor, Blutkessel
+1105: Nazjatar, Zuluhed, Frostmourne, Anub'arak, Dalvengyr
+1082: Kul Tiras, Alonsus, Anachronos
+1379: Zul'jin, Uldum, Sanguino, Shen'dralar
+1331: Suramar, Medivh
+567: Gilneas, Ulduar
+1099: Rexxar, Alleria
+1080: Khadgar, Bloodhoof
+1378: Dun Modr
+1929: Blackscar
+1390: Hyjal
+1097: Ysera, Malorne
+1598: Shattered Halls, Sunstrider, Daggerspine, Balnazzar, Laughing Skull, Chromaggus, Trollbane, Talnivarr, Ahn'Qiraj, Boulderfist
+581: Blackrock
+1623: Fordragon
+1405: Todeswache, Zirkel des Cenarius
+1309: Pozzo dell'Eternità
+531: Dethecus, Theradras, Onyxia, Terrordar, Mug'thol
+1307: Chamber of Aspects
+1587: Hellfire, Arathor
+1385: Exodar, Minahonda
+1384: Tyrande, Los Errantes, Colinas Pardas
+3690: Khaz Modan
+1303: Grim Batol, Aggra (Português)
+1602: Gordunni
+1381: C'Thun
+1327: Der Mithrilorden, Der Rat von Dalaran
+1403: Draenor
+1329: Ravencrest
+3391: Silvermoon
+1317: Darkmoon Faire, Earthen Ring
+604: Thrall
+1408: Norgannon, Dun Morogh
+1127: Confrérie du Thorium, Les Sentinelles, Les Clairvoyants
+1924: Booty Bay, Deathweaver
+1927: Grom, Thermaplugg
+1597: Auchindoun, Dunemaul, Jaedenar
+1928: Goldrinn
+1121: Die Arguswacht, Kult der Verdammten, Das Syndikat, Die Todeskrallen, Der abyssische Rat, Das Konsortium
+1603: Lich King, Greymane
+535: Durotan, Tirion
+1300: Frostmane
+570: Lothar, Baelgun
+1416: Blade's Edge, Vek'nilash, Eonar
+1098: Malygos, Malfurion
+1922: Azuregos
+1305: Kazzak
+2074: Emerald Dream, Terenas
+568: Kargath, Ambossar
+3686: Antonidas
+1335: Ysondre
+1621: Marécage de Zangar, Dalaran
+1605: Deathguard
+3687: Sylvanas
+579: Azshara, Krag'jin
+1122: Uldaman, Drek'Thar
+1612: Echsenkessel, Mal'Ganis, Taerar
+1615: Howling Fjord
+3703: Frostwolf
+3656: Dragonmaw, Spinebreaker, Stormreaver, Vashj, Haomarush
+1302: Archimonde
+3660: Genjuros, Neptulon, Darksorrow
+1625: Borean Tundra
+1311: Kilrogg, Runetotem, Nagrand
+3682: Ragnaros
+1604: Soulflayer
+1388: Lightbringer, Mazrigos
+3696: Madmortem, Proudmoore
+3691: Blackhand
+1316: Nemesis
+1400: Un'Goro, Sen'jin, Area 52
+1609: Deepholm, Razuvious
+1325: Aggramar, Hellscream
+580: Blackmoore
+1923: Ashenvale
+3674: Twisting Nether
+1614: Galakrond
+1417: Azuremyst, Stormrage
+639: Xavius, Al'Akir, Skullcrusher
+3681: Magtheridon
+3657: Zenedar, Bladefist, Frostwhisper
+1396: Azjol-Nerub, Quel'Thalas
+3692: Eredar
+1618: Die Aldor
+612: Nefarian, Destromath, Gorgonnash, Mannoroth, Nera'thor
+1096: Scarshield Legion, Defias Brotherhood, The Venture Co, Ravenholdt, Sporeggar
+1607: Nethersturm, Alexstrasza
+1393: Bronze Dragonflight, Nordrassil
+2073: Stormscale
+1624: Naxxramas, Illidan, Arathi, Temple noir
+1596: Karazhan, Deathwing, The Maelstrom, Lightning's Blade
+1091: Emeriss, Twilight's Hammer, Agamaggan, Bloodscalp, Crushridge, Hakkar
+1123: Eitrigg, Krasus
+3666: Aszune, Shadowsong
+1086: La Croisade écarlate, Conseil des Ombres, Culte de la Rive noire
+1084: Dentarg, Tarren Mill
+633: Kor'gall, Shattered Hand, Bloodfeather, Executus, Burning Steppes
+509: Garona, Ner'zhul, Sargeras
+1406: Arygos, Khaz'goroth
+1313: Wildhammer, Thunderhorn
+1081: Bronzebeard, Aerie Peak
+1336: Eldre'Thalas, Sinstralis, Cho'gall
+1315: Elune, Varimathras
+3713: Burning Legion
+1085: Moonglade, Steamwheedle Cartel, The Sha'tar
+3679: Aegwynn
+3702: Argent Dawn
+512: Arak-arahm, Kael'thas, Rashgarroth, Throk'Feroth
+1104: Anetheron, Gul'dan, Kil'jaeden, Nathrezim, Rajaxx, Festung der Stürme
+1588: Ghostlands, Dragonblight
+1389: Darkspear, Saurfang, Terokkar
+1925: Eversong
+3680: Aman'Thul
+3714: Kirin Tor
+1407: Teldrassil, Perenolde
+1301: Outland
+1402: Doomhammer, Turalyon
+1106: Tichondrius, Lordaeron
