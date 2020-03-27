@@ -113,8 +113,7 @@ async function processItems(auctions) {
   const corruptions = new Map([
     [6471, 'Masterfull I'],
     [6472, 'Masterfull II'],
-    [6473, 'Masterfull III'],
-    [6475, 'Expedient II']
+    [6473, 'Masterfull III']
   ])
   const items = new Map([
     [175009, 'Off-hand'],
