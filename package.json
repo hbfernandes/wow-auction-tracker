@@ -1,0 +1,23 @@
+{
+  "name": "wow-auction-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbfernandes/wow-auction-tracker.git"
+  },
+  "keywords": [
+    "wow",
+    "auctions"
+  ],
+  "author": "Hilario Fernandes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hbfernandes/wow-auction-tracker/issues"
+  },
+  "homepage": "https://github.com/hbfernandes/wow-auction-tracker#readme"
+}
