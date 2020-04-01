@@ -4445,7 +4445,7 @@ function getAuctions(token, realm) {
 
 function getRealms(token) {
   // 1325: Aggramar, Hellscream
-  
+
   const options = {
     hostname: 'eu.api.blizzard.com',
     path: `/data/wow/connected-realm/index?namespace=dynamic-eu&locale=en_US`,
@@ -4483,7 +4483,7 @@ function listNamesIDs(token, links) {
       res.on('data', chunck => body += chunck)
       res.on('end', function () {
         const result = JSON.parse(body)
-        console.log(`${result.id}: ${result.realms.map(realm => realm.name ).join(', ')}`)
+        console.log(`${result.id}: ${result.realms.map(realm => realm.name).join(', ')}`)
       })
     })
 
@@ -4494,7 +4494,7 @@ function listNamesIDs(token, links) {
 
 async function processItems(auctions) {
   console.log(`Processing ${auctions.length} auctions!`)
-  
+
   const corruptions = new Map([
     [6471, 'Masterfull I'],
     [6472, 'Masterfull II'],
@@ -4506,7 +4506,7 @@ async function processItems(auctions) {
     [175008, 'Ring]']
   ])
   const ilvls = new Map([
-    [1472, 430],
+    // [1472, 430],
     [1487, 445],
     [1502, 460],
     [1517, 475],
@@ -4514,19 +4514,22 @@ async function processItems(auctions) {
 
   let results = []
   auctions.forEach(auction => {
-    if (items.has(auction.item.id) && auction.item.bonus_lists.some(bonus => corruptions.has(bonus))) {
+    if (items.has(auction.item.id)
+      && auction.item.bonus_lists.some(bonus => corruptions.has(bonus))
+      && auction.item.bonus_lists.some(bonus => ilvls.has(bonus))
+    ) {
       let corruption, ilvl
 
       auction.item.bonus_lists.forEach(bonus => {
-        if(ilvls.has(bonus)){
+        if (ilvls.has(bonus)) {
           ilvl = ilvls.get(bonus)
         }
-        if(corruptions.has(bonus)){
+        if (corruptions.has(bonus)) {
           corruption = corruptions.get(bonus)
         }
       })
 
-      results.push(`${ilvl} ${items.get(auction.item.id)} - ${corruption} : ${auction.buyout/10000}`)
+      results.push(`${ilvl} ${items.get(auction.item.id)} - ${corruption} : ${auction.buyout / 10000}`)
     }
   })
 
@@ -4552,9 +4555,9 @@ async function run() {
 
   realms.forEach(async (name, id) => {
     const auctions = await getAuctions(token, id)
-    const items = await processItems(auctions)  
-    
-    if(items.length) discord(name, items)
+    const items = await processItems(auctions)
+
+    if (items.length) discord(name, items)
   })
 }
 
