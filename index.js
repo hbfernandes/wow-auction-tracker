@@ -127,11 +127,14 @@ async function processItems(auctions) {
     [1517, 475],
   ])
 
+  const priceLimit = 550000
+
   let results = []
   auctions.forEach(auction => {
     if (items.has(auction.item.id)
       && auction.item.bonus_lists.some(bonus => corruptions.has(bonus))
       && auction.item.bonus_lists.some(bonus => ilvls.has(bonus))
+      && (auction.buyout / 10000) < priceLimit
     ) {
       let corruption, ilvl
 
