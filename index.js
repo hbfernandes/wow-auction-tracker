@@ -111,23 +111,23 @@ async function processItems(auctions) {
   console.log(`Processing ${auctions.length} auctions!`)
 
   const corruptions = new Map([
-    [6471, 'Masterfull I'],
-    [6472, 'Masterfull II'],
+    //[6471, 'Masterfull I'],
+    //[6472, 'Masterfull II'],
     [6473, 'Masterfull III']
   ])
   const items = new Map([
     [175009, 'Off-hand'],
     [175004, 'Legs'],
-    [175008, 'Ring]']
+    //[175008, 'Ring]']
   ])
   const ilvls = new Map([
     // [1472, 430],
-    [1487, 445],
+    //[1487, 445],
     [1502, 460],
     [1517, 475],
   ])
 
-  const priceLimit = 550000
+  const priceLimit = 400000
 
   let results = []
   auctions.forEach(auction => {
